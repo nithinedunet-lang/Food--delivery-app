@@ -1,0 +1,14 @@
+food-delivery-app/
+├── index.html                  # Main landing page; shows list of restaurants
+├── menu.html                   # Shows menu for a specific restaurant
+├── cart.html                   # Shows user's cart across restuarants
+├── order-status.html           # Order and tracking status page
+├── assets/
+│   ├── css/
+│   │   ├── tailwind.css        # Tailwind CSS CDN or generated file
+│   │   └── bootstrap.min.css   # Bootstrap CDN or downloaded file
+│   ├── js/
+│   │   ├── cart.js             # Cart logic (basic sample)
+│   │   └── order.js            # Order tracking logic (basic sample)
+│   ├── images/                 # UI Assets (from Figma export)
+└── README.md                   # Project instructions
